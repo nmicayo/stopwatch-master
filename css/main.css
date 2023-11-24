@@ -65,7 +65,7 @@ body{
     width: inherit;
     padding: inherit;
     border-radius: inherit;
-    background-color: #00000099;
+    background-color: rgba(96, 136, 96, 0.286);
     top:0;
     left: 1rem;
     top:1rem;
